@@ -16,7 +16,7 @@ class CafeBusiness
         }
         else if (productType == "alcohol")
         {
-            vatRate = 25;
+            vatRate = 26;
         }
         else
         {
